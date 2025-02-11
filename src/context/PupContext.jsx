@@ -13,6 +13,4 @@ export const PupProvider = (props) => {
   )
 }
 
-
-
 export const PupContext = createContext();
